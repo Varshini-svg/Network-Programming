@@ -1,0 +1,5 @@
+## Skills Demonstrated
+- Python socket programming
+- Multithreading
+- HTTP client-server interaction
+- Basic load testing concepts
