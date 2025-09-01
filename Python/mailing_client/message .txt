@@ -1,0 +1,13 @@
+Hi there,
+
+I’m excited to invite you to our upcoming Tech Workshop on Network and Socket Programming.
+It will cover basics of Python sockets, client-server models, and real-world use cases.
+
+Date: 10th September 2025
+Time: 5:00 PM IST
+Venue: Online (Zoom link will be shared)
+
+Hope to see you there!
+
+Best regards,
+Team
